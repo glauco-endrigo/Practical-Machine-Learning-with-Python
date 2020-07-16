@@ -11,12 +11,14 @@ In each of the major algorithms, we are gonna cover theory, aplicattion and then
 
 ##   Content:
 
-#### Classification 
-1. K Nearest Neighbors
-2. Support Vector Machine
+#### 1. Simple Linear Regression
+1.1 Simple Linear Regression
 
-#### Simple Linear Regression
-1. Simple Linear Regression
+#### 2. Classification 
+2.1 K Nearest Neighbors
+2.2 Support Vector Machine
+
+
 
 #### License
 
