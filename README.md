@@ -13,6 +13,9 @@ In each of the major algorithms, we are gonna cover theory, aplicattion and then
 
 #### 1. Simple Linear Regression
 1.1 Simple Linear Regression
+  * R Squared Theory
+  * Best Fit Slope
+  * Testing Assumptions
 
 #### 2. Classification 
 2.1 K Nearest Neighbors
