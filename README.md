@@ -11,3 +11,9 @@ In each of the major algorithms, we are gonna cover theory, aplicattion and then
 
 ###### Classification 
 ###### Simple Linear Regression 
+
+## License
+
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
