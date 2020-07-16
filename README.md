@@ -21,6 +21,7 @@ In each of the major algorithms, we are gonna cover theory, aplicattion and then
   * Testing Assumptions
 
 #### 2. Classification 
+
 2.1 K Nearest Neighbors
 
 2.2 Support Vector Machine
