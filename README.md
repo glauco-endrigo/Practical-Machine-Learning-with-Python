@@ -17,11 +17,9 @@ In each of the major algorithms, we are gonna cover theory, aplicattion and then
 
     1.11 Introduction to  Linear Regression
   
-    1.12 Regression_How_it_Works
-    
-         R Squared Theory
-         Best Fit Slope
-         Testing Assumptions
+    1.12 Regression_How_it_Works: R Squared Theory
+                                  Best Fit Slope
+                                  Testing Assumptions
 
 #### 2. Classification 
 
