@@ -9,10 +9,14 @@ We are gonna be doing this buy covering a variety of algorithms, so first we are
 
 In each of the major algorithms, we are gonna cover theory, aplicattion and then we are gonna dive in deep into the inner workings of each of them
 
-##   Content
+##   Content:
 
 #### Classification 
-#### Simple Linear Regression 
+1. K Nearest Neighbors
+2. Support Vector Machine
+
+#### Simple Linear Regression
+1. Simple Linear Regression
 
 #### License
 
