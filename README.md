@@ -35,10 +35,12 @@ In each of the major algorithms, we are gonna cover theory, aplicattion and then
 
     2.21 Support Vector Machine Intro and Application
     
-    2.22 Creating_an_SVM_from_scratch: SVM 
-                                       Kernels
-                                       Soft Margin SVM
-                                       Parameters SVM 
+    2.22 Creating_an_SVM_from_scratch:  SVM Fundamentals
+                                        SVM Optimization
+                                        Kernels Introduction 
+                                        Soft Margin SVM
+                                        SVM Parameters
+    
                                      
                                         
 
