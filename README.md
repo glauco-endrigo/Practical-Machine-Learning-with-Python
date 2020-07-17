@@ -24,6 +24,12 @@ In each of the major algorithms, we are gonna cover theory, aplicattion and then
 #### 2. Classification 
 
 2.1 K Nearest Neighbors
+       
+    2.11 Classification with K Nearest Neighbors using  scikit-learn
+    
+    2.12 Creating Our K Nearest Neighbors Algorithm from scratch 
+    
+    2.13 Applying our K Nearest Neighbors Algorithm
 
 2.2 Support Vector Machine
 
