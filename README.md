@@ -43,6 +43,10 @@ In each of the major algorithms, we are gonna cover theory, aplicattion and then
     
                                      
                                         
+#### 3.Clustering
+       
+       3.1 k-means algorithm
+
 
 #### License
 
